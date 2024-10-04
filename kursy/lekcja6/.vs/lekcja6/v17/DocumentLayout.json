@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domin\\Documents\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2B944F-4771-48A5-87D1-C81A7E8A0A4B}|lekcja6.vcxproj|C:\\Users\\domin\\Documents\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja6\\lekcja6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA2B944F-4771-48A5-87D1-C81A7E8A0A4B}|lekcja6.vcxproj|solutionrelative:lekcja6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lekcja6.cpp",
+              "DocumentMoniker": "C:\\Users\\domin\\Documents\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja6\\lekcja6.cpp",
+              "RelativeDocumentMoniker": "lekcja6.cpp",
+              "ToolTip": "C:\\Users\\domin\\Documents\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja6\\lekcja6.cpp",
+              "RelativeToolTip": "lekcja6.cpp",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAJUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T13:14:19.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

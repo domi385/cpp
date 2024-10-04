@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\.NUCLEAR CODES\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC018C0-108C-4DE6-BEB9-651ADA04120E}|lekcja9.vcxproj|C:\\Users\\Admin\\Documents\\.NUCLEAR CODES\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja9\\lekcja9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCC018C0-108C-4DE6-BEB9-651ADA04120E}|lekcja9.vcxproj|solutionrelative:lekcja9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lekcja9.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\.NUCLEAR CODES\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja9\\lekcja9.cpp",
+              "RelativeDocumentMoniker": "lekcja9.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\.NUCLEAR CODES\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja9\\lekcja9.cpp",
+              "RelativeToolTip": "lekcja9.cpp",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T12:29:26.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  kamienpapierozyce.cpp
+C:\Users\domin\Documents\.NUCLEAR CODES\c++\lekcja5\kamienpapierozyce\kamienpapierozyce.cpp(9,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  kamienpapierozyce.vcxproj -> C:\Users\domin\Documents\.NUCLEAR CODES\c++\lekcja5\kamienpapierozyce\x64\Debug\kamienpapierozyce.exe

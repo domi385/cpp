@@ -1,0 +1,4 @@
+﻿  lekcja9.cpp
+C:\Users\Admin\Documents\.NUCLEAR CODES\.NUCLEAR CODES\c++\lekcja9\lekcja9.cpp(20,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Admin\Documents\.NUCLEAR CODES\.NUCLEAR CODES\c++\lekcja9\lekcja9.cpp(121,32): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+  lekcja9.vcxproj -> C:\Users\Admin\Documents\.NUCLEAR CODES\.NUCLEAR CODES\c++\lekcja9\x64\Debug\lekcja9.exe

@@ -1,0 +1,3 @@
+﻿  rngguess.cpp
+C:\Users\domin\Documents\.NUCLEAR CODES\c++\rngguess\rngguess.cpp(6,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  rngguess.vcxproj -> C:\Users\domin\Documents\.NUCLEAR CODES\c++\rngguess\x64\Debug\rngguess.exe

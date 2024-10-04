@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+﻿  lekcja11.cpp
+C:\Users\Admin\Documents\.NUCLEAR CODES\c++\kursy\lekcja11\lekcja11.cpp(28,25): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Admin\Documents\.NUCLEAR CODES\c++\kursy\lekcja11\lekcja11.cpp(28,20): warning C4305: "argument": obcięcie z "double" do "float"
+  lekcja11.vcxproj -> C:\Users\Admin\Documents\.NUCLEAR CODES\c++\kursy\lekcja11\x64\Debug\lekcja11.exe
+=======
+﻿  lekcja11.cpp
+C:\Users\Admin\Documents\.NUCLEAR CODES\c++\kursy\lekcja11\lekcja11.cpp(28,25): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Admin\Documents\.NUCLEAR CODES\c++\kursy\lekcja11\lekcja11.cpp(28,20): warning C4305: "argument": obcięcie z "double" do "float"
+  lekcja11.vcxproj -> C:\Users\Admin\Documents\.NUCLEAR CODES\c++\kursy\lekcja11\x64\Debug\lekcja11.exe
+>>>>>>> 3c811f799e10910f5caaadecd103774e6d0ba59f
