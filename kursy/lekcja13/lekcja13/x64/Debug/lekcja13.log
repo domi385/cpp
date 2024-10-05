@@ -1,0 +1,3 @@
+﻿  lekcja13.cpp
+C:\Users\Admin\Documents\.NUCLEAR_CODES\c++\kursy\lekcja13\lekcja13.cpp(57,10): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  lekcja13.vcxproj -> C:\Users\Admin\Documents\.NUCLEAR_CODES\c++\kursy\lekcja13\x64\Debug\lekcja13.exe
