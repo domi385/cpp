@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\domin\\Documents\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja7\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{75B51D4D-7028-49CD-9B0B-3246D2F889A5}|lekcja7.vcxproj|C:\\Users\\domin\\Documents\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja7\\lekcja7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{75B51D4D-7028-49CD-9B0B-3246D2F889A5}|lekcja7.vcxproj|solutionrelative:lekcja7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\.NUCLEAR_CODES\\c\u002B\u002B\\kursy\\lekcja7\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "lekcja7.cpp",
-              "DocumentMoniker": "C:\\Users\\domin\\Documents\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja7\\lekcja7.cpp",
-              "RelativeDocumentMoniker": "lekcja7.cpp",
-              "ToolTip": "C:\\Users\\domin\\Documents\\.NUCLEAR CODES\\c\u002B\u002B\\lekcja7\\lekcja7.cpp",
-              "RelativeToolTip": "lekcja7.cpp",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAmwFAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-15T13:01:29.798Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
